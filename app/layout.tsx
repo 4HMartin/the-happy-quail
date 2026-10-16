@@ -8,7 +8,7 @@ const sans = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
   title: "The Happy Quail | Restaurant & Bar",
-  description: "Coming soon to Sundew Court, The Happy Quail. Bar and restaurant ran by Emma and Heber of Rodriguez Events. Opening 19th October for breakfast, lunch, hot & soft drinks. Opening for evenings & weekends with wine, cocktails & G&Ts from late November.",
+  description: "Coming soon to Sundew Court, The Happy Quail. Bar and restaurant ran by Emma and Heber of Rodriguez Events. Opening 19th October for breakfast, lunch, hot & soft drinks. Opening for evenings & weekends with wine, cocktails & G&Ts from late November."
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
